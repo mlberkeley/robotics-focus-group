@@ -1,4 +1,4 @@
-# Robotics Focus Group 
+# Curriculum for Robotics Focus Group 
 
 Week 1: Group structure and mini-lecture on cameras and sensors [Slides](https://docs.google.com/presentation/d/1g0UfFhuMRHIBNQ-iW9DkNJk5dMgxHGsIBOfyFwykSWk/edit?usp=sharing)
 
